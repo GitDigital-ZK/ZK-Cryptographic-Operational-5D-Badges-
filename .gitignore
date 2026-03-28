@@ -32,3 +32,20 @@ google-services.json
 
 # Android Profiling
 *.hprof
+node_modules/
+dist/
+build/
+*.log
+.env
+coverage/
+.cache/
+*.zkey
+*.wasm
+*.r1cs
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+contracts/artifacts/
+contracts/cache/
